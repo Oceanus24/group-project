@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Files\\Downloads\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj": {}
+    "C:\\Users\\addis\\Desktop\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj": {}
   },
   "projects": {
-    "D:\\Files\\Downloads\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj": {
+    "C:\\Users\\addis\\Desktop\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Files\\Downloads\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj",
+        "projectUniqueName": "C:\\Users\\addis\\Desktop\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj",
         "projectName": "RazorPagesTitanHelpDesk",
-        "projectPath": "D:\\Files\\Downloads\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj",
+        "projectPath": "C:\\Users\\addis\\Desktop\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\RazorPagesTitanHelpDesk.csproj",
         "packagesPath": "C:\\Users\\addis\\.nuget\\packages\\",
-        "outputPath": "D:\\Files\\Downloads\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\obj\\",
+        "outputPath": "C:\\Users\\addis\\Desktop\\group-project-main\\group-project-main\\RazorPagesTitanHelpDesk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
