@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RazorPagesTitanHelpDesk",
+    "\\RazorPagesTitanHelpDesk\\Pages"
   ],
-  "SelectedNode": "\\RazorPagesTitanHelpDesk.sln",
+  "SelectedNode": "\\RazorPagesTitanHelpDesk\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
